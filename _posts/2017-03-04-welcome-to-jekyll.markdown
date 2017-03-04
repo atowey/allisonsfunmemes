@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sup, losers. This is a meme post."
-date:   {{ article.published_at | date: %M %D, %Y }}
+date:   
 categories: jekyll update
 ---
 
