@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sup, losers. This is a meme post."
-date:   
+date:   2017-03-04 18:30:00 -0600
 categories: jekyll update
 ---
 
